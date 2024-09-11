@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @indransh-0804
-- 👀 I’m interested in Machine Learning, Data Science and Quantitative Trading.
+- 👀 I’m interested in Machine Learning, Data Science and Quantitative Finance.
 - 🌱 I’m currently learning Macros, c++ and Financial Time Series
 - 📫 To reach me email @ indransh.0804.sharma@gmail.com
 
