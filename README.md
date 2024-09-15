@@ -25,7 +25,7 @@ I'm a second-year BTech student currently diving deep into the realms of Linux, 
 - **Python**: Data analysis, machine learning, and automation.
 - **UIKit**: Building Lightweight and Fast Website.
 - **FireBase**: Managing real-time DataBase and Authorization.
-- **Dart**: Language for Flutter UI.
+- **Dart**: Language for Flutter UI development.
 - **JavaScript**: Web development and interactive applications.
 - **C\C++**: Performance-critical applications and quantitative finance.
 - **Elisp**: Language for Customizing Development Environment.
