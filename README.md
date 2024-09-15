@@ -32,7 +32,7 @@ I'm a second-year BTech student currently diving deep into the realms of Linux, 
 
 ## 🌐 On-Going Projects :
 
-- **[Mahila Mitra](#)**: A college project aimed at assisting women in emergencies. (Flutter)
+- **Mahila Mitra**: A college project aimed at assisting women in emergencies. (Flutter)
 - **Personal Website**: A portfolio showcasing my web and mobile app development work.
 
 ## 🛠️ Tools & Technologies :
@@ -43,9 +43,9 @@ I'm a second-year BTech student currently diving deep into the realms of Linux, 
 
 ## 📫 Get in Touch :
 
-- **LinkedIn**: [linkedin.com/in/indransh](https://linkedin.com/in/indransh)
-- **GitHub**: [github.com/indransh](https://github.com/indransh)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [linkedin.com/in/indransh-sharma-08aug2004](https://linkedin.com/in/indransh-sharma-08aug2004)
+- **GitHub**: [github.com/indransh-0804](https://github.com/indransh-0804)
+- **Email**: [indransh.0804.sharma@gmail.com](indransh.0804.sharma@gmail.com)
 ---
 
 Thank you for visiting my GitHub profile! 🌟
