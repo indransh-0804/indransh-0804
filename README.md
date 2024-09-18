@@ -36,8 +36,8 @@ I'm a second-year BTech student currently diving deep into the realms of Linux, 
 ## 🛠️ Tools & Technologies :
  
 - **Operating Systems**: Linux, Windows
-- **Development Environments**: Emacs, VSCode
-- **Version Control**: Git, GitHub, GitLab
+- **Development Environments**: Emacs, JetBrain IDEs, Spyder
+- **Version Control**: Git, GitHub, Magit
 
 ## 📫 Get in Touch :
 
