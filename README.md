@@ -37,7 +37,7 @@ I'm a second-year BTech student currently diving deep into the realms of Linux, 
  
 - **Operating Systems**: Linux, Windows
 - **Development Environments**: Emacs, JetBrain IDEs, Spyder
-- **Version Control**: Git, GitHub, Magit
+- **Version Control**: Git, GitHub, GitLab
 
 ## 📫 Get in Touch :
 
@@ -46,5 +46,5 @@ I'm a second-year BTech student currently diving deep into the realms of Linux, 
 - **Email**: [indransh.0804.sharma@gmail.com](indransh.0804.sharma@gmail.com)
 ---
 
-Thank you for visiting my GitHub profile! 🌟
+Adios Amigo! 🌟
 
