@@ -1,5 +1,4 @@
-# Welcome to my GitHub Profile _
-# Hello!👋 I'm Indransh Sharma 
+# 👋 Hello >_ I'm Indransh Sharma and this is my GitHub Profile _
 
 ## 🌟 About Me
 
