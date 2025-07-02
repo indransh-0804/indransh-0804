@@ -1,4 +1,4 @@
-#  >_ Hello!👋 I'm Indransh Sharma and this is my GitHub Profile _
+#  >_ I'm Indransh Sharma and this is my GitHub Profile _
 
 ##  >_ About Me 🌟
 
@@ -33,7 +33,6 @@ I'm a second-year BTech student currently diving deep into the realms of Linux, 
 
 ## >_ On-Going Projects 🌐
 
-- **Mahila Mitra**: A college project aimed at assisting women in emergencies. (Flutter)
 - **Finance**: Regression model for stock prices automated using Rust.
 - **Personal Website**: A portfolio showcasing my web and mobile app development work.
 
